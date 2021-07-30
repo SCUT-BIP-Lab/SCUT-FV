@@ -12,16 +12,16 @@ The SCUT FV Dataset contains 61,344 images from 568 fingers. For each finger, th
 The SCUT FV Database is publicly available (free of charge) to the research community.  
 Unfortunately, due to privacy reasons, we cannot provide the database for commercial use.  
 
-We have made part of the dataset available for download in the repo in order to get a detailed view of this data. Those interested in obtaining the whole SCUT FV Database should download [release agreement](https://github.com/SCUT-BIP-Lab/SCUT-3DFV-V1/blob/main/SCUT-3DFV-V1%20Database%20Release%20Agreement.pdf), and send by e-mail one signed and scanned copy to scutbip@outlook.com.
+We have made part of the dataset available for download in the repo in order to get a detailed view of this data. Those interested in obtaining the whole SCUT FV Database should download [release agreement](https://github.com/SCUT-BIP-Lab/SCUT-FV/blob/main/SCUT%20FV%20Database%20Release%20Agreement.pdf), and send by e-mail one signed and scanned copy to scutbip@outlook.com.
 
 While reporting results using the __SCUT FV Database__, please cite the following article:  
-@article{Kang2020StudyOA,  
-  title={Study of a Full-View 3D Finger Vein Verification Technique},  
-  author={Wenxiong Kang and H. Liu and Wei Luo and F. Deng},  
-  journal={IEEE Transactions on Information Forensics and Security},  
-  year={2020},  
-  volume={15},  
-  pages={1175-1189}  
+@article{Tang2019StudyOA,  
+  title={Finger Vein Verification using a Siamese Convolutional Neural Network},  
+  author={Su Tang and San Zhou and Wenxiong Kang and Qiuxia Wu and FeiQi Deng},  
+  journal={IET Biometrics},  
+  year={2019},  
+  volume={8},  
+  pages={306-315}  
 }  
 
 # Contact
